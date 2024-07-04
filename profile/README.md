@@ -11,3 +11,5 @@ We believe that open-source software should be:
 * **Innovative:** Encouraging creativity and experimentation to push the boundaries of what's possible.
 
 We're excited to see  you'll  TheBoringRats!
+
+![TheBoaringRats](https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif)
