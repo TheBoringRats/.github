@@ -1,12 +1,13 @@
-## Hi there 👋
+**TheBoringRats**
 
-<!--
+[Open source](https://opensource.com/) for everyone. Fun, inclusive, & innovative.
 
-**Here are some ideas to get you started:**
+This project is about creating a welcoming and collaborative environment for people of all skill levels to learn, contribute, and build together. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We believe that open-source software should be:
+
+* **Accessible:** Easy to understand and use, with clear documentation and a helpful community.
+* **Inclusive:** Welcoming to everyone, regardless of background or experience.
+* **Innovative:** Encouraging creativity and experimentation to push the boundaries of what's possible.
+
+We're excited to see  you'll  TheBoringRats!
